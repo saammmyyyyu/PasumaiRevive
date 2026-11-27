@@ -1,0 +1,10 @@
+{
+  "description": "Connects shopkeepers, operators, and administrators to Pasumai Revive services with role-based login, clear project information, and easy contact options.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
